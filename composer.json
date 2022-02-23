@@ -1,6 +1,6 @@
 {
     "name": "cachesistemas/gov",
-      "description": "Consultar CPF ou CNPJ que tenha valor a Receber GOV",
+    "description": "Consultar CPF ou CNPJ que tenha valor a Receber GOV",
     "keywords": ["Consultar Valor a Receber","GOV"],
     "license": "MIT",
     "type": "project",
