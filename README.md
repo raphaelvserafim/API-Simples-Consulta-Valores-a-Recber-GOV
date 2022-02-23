@@ -13,7 +13,7 @@ composer require cachesistemas/gov
 
 
 ###### index.php
-```
+```php
 <?php 
 
 include_once 'vendor/autoload.php';
@@ -32,7 +32,7 @@ echo json_encode($consulta);
 ```
 
 ###### Exemplo retorno TRUE   JSON 
-```
+```json
 {
    "status":true,
    "dataRegate":"08\/03\/2022",
