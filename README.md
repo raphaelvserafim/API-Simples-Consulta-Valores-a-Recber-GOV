@@ -4,7 +4,7 @@
 
 ## Instalando via composer 
 ```
-composer require 
+composer require cachesistemas/gov
 
 ```
 
